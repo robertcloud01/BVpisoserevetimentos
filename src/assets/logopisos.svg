@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="logopisos.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.71891835"
+     inkscape:cx="397.12437"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1" /><defs
+     id="defs1" /><g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"><g
+       id="g1"
+       transform="matrix(0.19049054,0,0,0.19023389,30.608365,98.467762)"><rect
+         x="-248.77667"
+         y="275.3241"
+         width="133.90704"
+         height="89.312538"
+         fill="none"
+         stroke="#f26522"
+         stroke-width="17.8584"
+         rx="6.695353"
+         id="rect1-0"
+         transform="matrix(0.81878848,-0.57409532,0.57305758,0.81951511,0,0)" /><rect
+         x="-247.35104"
+         y="364.30878"
+         width="156.27287"
+         height="104.22996"
+         fill="none"
+         stroke="#f26522"
+         stroke-width="20.8411"
+         rx="7.8136435"
+         id="rect2"
+         transform="matrix(0.81878848,-0.57409532,0.57305758,0.81951511,0,0)" /><text
+         x="239.56033"
+         y="450.35513"
+         class="main"
+         id="text3-9"
+         transform="scale(0.99932615,1.0006743)"
+         style="stroke-width:1.38989"><tspan
+           class="light"
+           id="tspan2"
+           style="stroke-width:1.38989">BOA</tspan><tspan
+           class="bold"
+           id="tspan3"
+           style="stroke-width:1.38989">VISTA</tspan></text><text
+         x="234.45757"
+         y="556.28021"
+         class="sub"
+         id="text4"
+         transform="scale(1.0672332,0.93700233)"
+         style="stroke-width:0.295935">PISOS E REVESTIMENTOS</text></g></g><style
+     id="style1">
+.main { font-family: Arial, Helvetica, sans-serif; font-size:120px; fill:#d9d9d9; letter-spacing:6px; }
+.light { font-weight:300; }
+.bold { font-weight:700; }
+.sub { font-family: Arial, Helvetica, sans-serif; font-size:40px; fill:#f26522; letter-spacing:5px; }
+</style></svg>
